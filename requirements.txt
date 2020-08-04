@@ -26,4 +26,5 @@ flake8
 bandit
 isort
 sqlitedict
-typing-extensions # backport to older python 3
+typing-extensions # backport to older python 3.x
+dataclasses # backport to python 3.6
